@@ -7,9 +7,8 @@
 
 # GitHub Stats Card
 
-```md
-[![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok2811)](https://github.com/alok2811/github-readme-stats)
-```
+md[![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok2811)](https://github.com/alok2811/github-readme-stats)
+
 
 
 
