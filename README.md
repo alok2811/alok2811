@@ -11,9 +11,12 @@
 
 ## 👋 Connect with me:
 
-<a href="https://www.linkedin.com/in/alok-dubey-02ba331b6/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alok Dubey | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/flutter_coding_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Alok Dubey | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.facebook.com/dalok2811"><img align="left" src="https://github.com/alok2811/alok2811/blob/main/images/facebook.png" alt="Alok Dubey | Facebook" width="21px"/></a>
+<a href="https://www.instagram.com/flutter_coding_/"><img align="left" src="https://github.com/alok2811/alok2811/blob/main/images/instagram.png" alt="Alok Dubey | Instagram" width="21px"/></a>
+
+<a href="https://www.linkedin.com/in/alok-dubey-02ba331b6/"><img align="left" src="https://github.com/alok2811/alok2811/blob/main/images/linkedin.png" alt="Alok Dubey | LinkedIn" width="21px"/></a>
+<a href="https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw"><img align="left" src="https://github.com/alok2811/alok2811/blob/main/images/youtube.png" alt="Alok Dubey | Youtube" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
