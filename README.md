@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alok Dubey
 - 🔭 I’m currently working on Flutter Projects.
 - 🌱 I’m currently learning to put together multiple Hyper Beast Stack for Scalable Applications.
-- 📫 How to reach me am5803@gmail.com
 - ⚡ Fun fact Started as a Failure, I Never knew I could learn this.
 
 
@@ -13,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok2811)](https://github.com/alok2811/github-readme-stats)
 
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=alok2811.alok2811)]
 
 
 <!---
