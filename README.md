@@ -11,13 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://instagram.com/flutter_coding_" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="Alok Dubey" height="80" width="80" /></a>
-  
-  <a href="https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/yt.svg" alt="Flutter Coding" height="80" width="80" /></a>
-  
-<a href="https://fb.com/dalok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="Alok Dubey" height="80" width="80" /></a>
-  
-  <a href="https://gitlab.com/alok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/gitlab.svg" alt="Alok Dubey" height="80" width="80" /></a>
+<a href="https://instagram.com/flutter_coding_" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="Alok Dubey" height="80" width="80" /></a><a href="https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/yt.svg" alt="Flutter Coding" height="80" width="80" /></a><a href="https://fb.com/dalok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="Alok Dubey" height="80" width="80" /></a><a href="https://gitlab.com/alok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/gitlab.svg" alt="Alok Dubey" height="80" width="80" /></a>
 </p>
 
 ## 📈 GitHub Stats 
