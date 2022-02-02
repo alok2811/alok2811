@@ -10,7 +10,7 @@
 
 <h3 align="left">Created and Published Packages</h3>
 
-- I Create this Flutter Package [Bezzie Technologies](https://www.bezzietechnologies.com/).
+- I Create this Flutter Package [Flutter Social Button](https://pub.dev/packages/flutter_social_button/).
 
 
 <h3 align="left">Connect with me:</h3>
