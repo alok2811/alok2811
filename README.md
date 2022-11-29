@@ -16,9 +16,12 @@
 [![pub popularity](https://badges.bar/flutter_social_button/popularity)](https://pub.dev/packages/flutter_social_button)
 
 - I Create [Masked TextField](https://pub.dev/packages/masked_text_field/) Flutter Package For immpliment formated masked TextFields at any flutter project<br>
-[![pub package](https://img.shields.io/pub/v/masked_text_field.svg)](https://pub.dev/packages/masked_text_field)
+
+ [![pub package](https://img.shields.io/pub/v/masked_text_field.svg)](https://pub.dev/packages/masked_text_field) | [![likes](https://img.shields.io/pub/likes/masked_text_field?logo=dart)](https://pub.dev/packages/masked_text_field/score) | [![popularity](https://img.shields.io/pub/popularity/masked_text_field?logo=dart)](https://pub.dev/packages/masked_text_field/score) | [![pub points](https://img.shields.io/pub/points/masked_text_field?logo=dart)](https://pub.dev/packages/masked_text_field/score)
+
+<!-- [![pub package](https://img.shields.io/pub/v/masked_text_field.svg)](https://pub.dev/packages/masked_text_field)
 [![pub points](https://badges.bar/masked_text_field/pub%20points)](https://pub.dev/packages/masked_text_field)
-[![pub popularity](https://badges.bar/masked_text_field/popularity)](https://pub.dev/packages/masked_text_field)
+[![pub popularity](https://badges.bar/masked_text_field/popularity)](https://pub.dev/packages/masked_text_field) -->
 
 
 <h3 align="left">Connect with me:</h3>
