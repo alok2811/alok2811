@@ -29,7 +29,13 @@
 <p align="left">
 <a href="https://instagram.com/flutter_coding_" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/instagram.png" alt="Alok Dubey" height="80" width="80" /></a>
   &ensp;
-  <a href="https://www.youtube.com/@flutter_coding_" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/youtube.png" alt="Flutter Coding" height="80" width="80" /></a><a href="https://fb.com/dalok2811" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/facebook.png" alt="Alok Dubey" height="80" width="80" /></a><a href="https://gitlab.com/alok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/gitlab.svg" alt="Alok Dubey" height="80" width="80" /></a><a href="https://www.linkedin.com/in/alok2811" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/linkedin-logo-2430.svg" alt="Alok Dubey" height="75" width="75" /></a>
+  <a href="https://www.youtube.com/@flutter_coding_" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/youtube.png" alt="Flutter Coding" height="80" width="80" /></a>
+  &ensp;
+  <a href="https://fb.com/dalok2811" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/facebook.png" alt="Alok Dubey" height="80" width="80" /></a>
+  &ensp;
+  <a href="https://gitlab.com/alok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/gitlab.svg" alt="Alok Dubey" height="80" width="80" /></a>
+  &ensp;
+  <a href="https://www.linkedin.com/in/alok2811" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/linkedin-logo-2430.svg" alt="Alok Dubey" height="75" width="75" /></a>
 </p>
 
 ## 📈 GitHub Stats 
