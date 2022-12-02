@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Alok Dubey</h1>
 <h3 align="center">Result oriented professional in Research & Mobile Application Devlopment</h3>
 
-- 🔭 I’m currently working on [Flutter Coding](https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw).
-- 🌱 I’m currently learning **Flutter, PHP**.
+- 🔭 I’m currently working as Freelancer in Flutter Mobile app Development on [Flutter Coding](https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw).
+- 🌱 I’m currently learning **Node Js**.
 - 📫 How to reach me **am5803@gmail.com**.
 - ⚡ Fun fact **Started as a Failure, I Never knew I could learn this**.
 
