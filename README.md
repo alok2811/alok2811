@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Alok Dubey</h1>
 <h3 align="center">Result oriented professional in Research & Mobile Application Devlopment</h3>
 
-- 🔭 I’m currently working as Freelancer in Flutter Mobile app Development on [Flutter Coding](https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw).
+- 🔭 I’m currently working as Flutter Mobile app Development (Freelancer).
 - 🌱 I’m currently learning **Node Js**.
 - 📫 How to reach me **am5803@gmail.com**.
 - ⚡ Fun fact **Started as a Failure, I Never knew I could learn this**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok2811&label=Profile%20views&color=0e75b6&style=flat" alt="alok2811" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok2811&label=Profile%20views&color=0e75b6&style=flat" alt="alok2811" /> </p> -->
 <h3 align="left">Created and Published Packages</h3>
 
 - I Create [Flutter Social Button](https://pub.dev/packages/flutter_social_button/) Flutter Package For fast implement all social media buttons at any flutter project.<br>
@@ -27,9 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/alok-dubey-02ba331b6)&ensp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/flutter_coding_/)&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/alok-dubey-02ba331b6)&ensp;
+[![Twitter](https://img.shields.io/badge/twitter-E4405F?logoColor=white)](https://www.instagram.com/flutter_coding_/)&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/dalok2811/)&ensp;
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw)&ensp;
 
