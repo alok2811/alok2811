@@ -28,21 +28,10 @@
 
 <p align="left">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/alok-dubey-02ba331b6)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/flutter_coding_/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/dalok2811/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw)
-  
-<a href="https://instagram.com/flutter_coding_" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/instagram.png" alt="Alok Dubey" height="80" width="80" /></a>
-  &ensp;
-  <a href="https://www.youtube.com/@flutter_coding_" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/youtube.png" alt="Flutter Coding" height="80" width="80" /></a>
-  &ensp;
-  <a href="https://fb.com/dalok2811" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/facebook.png" alt="Alok Dubey" height="80" width="80" /></a>
-<!--   &ensp;
-  <a href="https://gitlab.com/alok2811" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/gitlab.svg" alt="Alok Dubey" height="80" width="80" /></a> -->
-  &ensp;
-  <a href="https://www.linkedin.com/in/alok2811" target="blank"><img align="center" src="https://github.com/alok2811/alok2811/blob/main/images/linkedin-logo-2430.svg" alt="Alok Dubey" height="75" width="75" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/alok-dubey-02ba331b6)&ensp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/flutter_coding_/)&ensp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/dalok2811/)&ensp;
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7S6rSRNON1_YvKgiUjfyIw)&ensp;
 
 ## 📈 GitHub Stats 
 
