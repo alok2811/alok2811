@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alok Dubey</h1>
 <h3 align="center">Result oriented professional in Research & Mobile Application Devlopment</h3>
 
-- 🔭 I’m currently working as Flutter Mobile app Development (Freelancer).
+- 🔭 I’m currently working as Flutter Mobile app Development.
 - 🌱 I’m currently learning **Node Js**.
 - 📫 How to reach me **am5803@gmail.com**.
 - ⚡ Fun fact **Started as a Failure, I Never knew I could learn this**.
